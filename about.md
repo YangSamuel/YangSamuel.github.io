@@ -6,13 +6,13 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Web开发工程师, Ruby On Rails开发者, 主攻Ruby, HTML, CSS, Javascript语言, 目标成为一个 Full Stack Developer.
+成长中的产品经理。希望能参与更多的互联网项目
 
 ### 联系我
 
-邮箱: cjw624923@gmail.com.
+邮箱: yangsamuel@foxmail.com
 
-微博: <a href="http://weibo.com/u/1938705522">http://weibo.com/u/1938705522</a>
+# 微博: <a href="http://weibo.com/u/1938705522">http://weibo.com/u/1938705522</a>
 
 ---
 
