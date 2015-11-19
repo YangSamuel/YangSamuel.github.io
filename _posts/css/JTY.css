@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "微软雅黑";
+    background: url(../images/bodyBg.png)no-repeat center;
+}
+
+.logoBox img {
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    width: 80%;
+    margin-bottom: 15px;
+}
+
+.list {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.list .div1 {
+    background: url(../images/inputBg.png);
+    height: 49px;
+    line-height: 48px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 11.5px 0;
+}
+
+.list label {
+    color: rgb(154, 5, 131);
+    font-family: "黑体";
+    font-size: 12px;
+    margin: 0!important;
+    width: 20%;
+    text-align: center;
+    display: block;
+    padding: 0;
+    line-height: 26px;
+    float: left;
+}
+
+.list input {
+    height: 26px;
+    width: 60%;
+    line-height: 26px;
+    background: none;
+    border-style: none;
+    padding: 0;
+    font-size: 16px;
+    font-family: "黑体";
+    float: left;
+}
+
+.list select {
+    height: 26px;
+    line-height: 26px;
+    width: 60%;
+    background: none;
+    border-style: none;
+    padding: 0;
+    font-size: 16px;
+    font-family: "黑体";
+    color: #b0a9ae;
+    -webkit-appearance: none;
+    float: left;
+}
+
+.list p {
+    display: block;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+.list .div2 {
+    background: url(../images/textareaBg.png);
+    height: 129px;
+    margin: 0;
+}
+
+.list .div2 textarea {
+    width: 95%;
+    height: 120px;
+    background: none;
+    border-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    margin-top: 2px;
+    float: left;
+}
