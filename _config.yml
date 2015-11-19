@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   没啥说的
 baseurl: "" # the subpath of your siimte, e.g. /blog/
 url: "http://gonghejian.github.io" # the base hostname & protocol for your site
-logourl: /assets/images/logo.png # Site logo
+logourl:  # Site logo
 author: "gonghejian"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
