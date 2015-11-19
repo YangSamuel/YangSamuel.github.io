@@ -1,11 +1,11 @@
 # Site settings
-title: 弓和箭
+title: Samuel琛
 tagline: 
-email: gonghejian@gmail.com
+email: yangsamuel@foxmai.com
 description: > # this means to ignore newlines until "baseurl:"
-  没啥说的
+  一只小小的产品汪
 baseurl: "" # the subpath of your siimte, e.g. /blog/
-url: "http://gonghejian.github.io" # the base hostname & protocol for your site
+url: "http://yangsamuel.github.io" # the base hostname & protocol for your site
 logourl:  # Site logo
 author: "gonghejian"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
@@ -15,12 +15,12 @@ theme:
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
-    github: gonghejian
-    twitter: badboy315
-    facebook: gonghejian    
-    gplus: gonghejian
+    github: yangsamuel
+    #twitter: badboy315
+    #facebook: gonghejian    
+    #gplus: gonghejian
     # dribble: gayanvirajith
-    pinterest: gonghejian
+    #pinterest: gonghejian
 
   # Enable share buttons on post footer
   show_share_buttons: true
